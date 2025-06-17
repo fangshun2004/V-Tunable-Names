@@ -90,11 +90,6 @@ bitset to enable imani missile lockon jammer on specific vehicles.
 names end with a number, not sure if 0-indexed or 1-indexed.
 
 
-[-244473719]
-see: func_8252 in appinternet.#sc
-not sure. it's an int used with SET_DATA_SLOT scaleform function
-
-
 [785252672]
 [-2094679071]
 see: func_9279 in freemode.#sc
@@ -319,3 +314,8 @@ no idea. some kind of modifier.
 [1616102820]
 see: func_6716 in fm_race_controler.#sc
 no idea. disables something
+
+
+[758807260]
+see: main in freemode.#sc on pcgen9 b811
+gen9 only. sets packed bool 34162 to true if enabled
