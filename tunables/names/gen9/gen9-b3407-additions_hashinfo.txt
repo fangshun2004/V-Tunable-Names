@@ -146,11 +146,6 @@ new terrorbyte car mods
 it's possible the name for the first 3 is "terror_add_on_weapon_cost_running_mode_*" but until the last 2 are found it's best to treat it as a hash collision. a collectible scanner is not a "weapon" so the name kinda doesn't make sense.
 
 
-[1159023279]
-see: func_12501 in freemode.#sc
-not sure. possibly related to hacker den safe
-
-
 [1715846636]
 see: func_12421 in freemode.#sc
 hacker den min daily safe value
