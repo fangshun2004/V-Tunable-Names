@@ -23,6 +23,6 @@
 | 3570 | **Additions** | 465 | 308 | ❌ | - |
 | 3570 | *Removals* | 2 | 2 | ✅ | - |
 | 3570-gen9 | *Removals* | 7 | 7 | ✅ | 889.15 |
-| 3717 | **Additions** | 508 | 212 | ❌ | 1013.17 |
+| 3717 | **Additions** | 508 | 242 | ❌ | 1013.17 |
 
 Note: 3442-gen9-additions is a "temporary" file until the names/hashes can be sorted to their actual, currently unknown, builds.

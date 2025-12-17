@@ -48,9 +48,11 @@ You're probably here if you helped me out directly or at some point posted old p
 - [FoxySnaps](https://twitter.com/FoxySnaps)
 - [GTAOBOT](https://twitter.com/gtaobot)
 - [hectorredx](https://github.com/hectorredx)
+- [OldAgario](https://github.com/OldAgario)
 - [PLTytus](https://github.com/PLTytus)
 - [RDO.GG API](https://rdo.gg/api)
 - [root-cause](https://github.com/root-cause)
+- [ShinyWasabi](https://github.com/ShinyWasabi)
 - [Tex2](https://twitter.com/TexFunz2)
 - [yasmasdas](https://github.com/yasmasdas)
 - ...and anyone else I might not have listed here.
